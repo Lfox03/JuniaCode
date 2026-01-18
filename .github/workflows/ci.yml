@@ -26,4 +26,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
+      - run: pip install mkdocs-nav-weight
+      - run: pip install mkdocs-quiz
       - run: mkdocs gh-deploy --force
