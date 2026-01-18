@@ -1,6 +1,8 @@
 ---
 title: débutants
 description: Les bases en C++
+icon: material/star
+weight: 0
 ---
 
 # Exercices débutants

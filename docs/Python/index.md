@@ -1,5 +1,10 @@
+---
+title: Apprendre le Python
+description: Accueil de la section Python
+---
+
 # Bienvenue sur la partie Python 
 
-![python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdgUkYVq9-UPHtkrQyNzA1t-hCdSG65-XYw&s){ width="300" }
+!!! warning "En construction"
 
-Amusez vous bien ! 
+![python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdgUkYVq9-UPHtkrQyNzA1t-hCdSG65-XYw&s){ width="30%" }

@@ -1,11 +1,16 @@
 ---
 title: Les bases
 description: Les bases en C++
+icon: material/code-braces
 ---
 
 # Les bases en C++
 
 Bienvenue dans ce cours d'introduction au C++. Le C++ est un langage puissant, performant et largement utilisé dans l'industrie (jeux vidéo, systèmes embarqués, finance).
+
+!!! info "Attention"
+
+    Il s'agit ici d'un cours C++, et non d'Arduino. 
 
 ## 1. Votre premier programme
 
