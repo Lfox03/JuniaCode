@@ -18,6 +18,10 @@ Avant de plonger dans le monde d'Arduino, il est important de comprendre comment
 
 Arduino est une plateforme open-source conçue pour la prototypage rapide et l'apprentissage de l'électronique. Elle utilise une version simplifiée du C++, mais avec des bibliothèques spécifiques pour interagir avec le matériel.
 
+!!! warning "Attention"
+  
+    Arduino n'est **pas un langage de programmation**, mais bien un **environnement de développement** qui permet de programmer des microcontroleurs compatibles.
+
 #### Comparaison rapide
 
 | **Critère**               | **C++ traditionnel**                          | **Arduino**                                  |
@@ -246,4 +250,4 @@ void loop() {
 |-----------|-------------|
 | [📖 Documentation officielle](https://www.arduino.cc/en/Reference/HomePage) | Tout savoir sur les fonctions Arduino. |
 | [🛠️ Simulateur en ligne (Tinkercad)](https://www.tinkercad.com/) | Teste tes circuits sans matériel ! |
-| [📌 Flashcards : Broches Arduino](flashcards/broches.md) | Révise les broches importantes. |
+| [📌 Flashcards : Broches Arduino](../FlashCard/index.md) | Révise les broches importantes. |

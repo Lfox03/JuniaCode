@@ -1,3 +1,8 @@
+---
+title: C++
+description: Révisez avec les FlashCards sur le C++
+---
+
 # Flashcards : Révision C++
 
 Utilisez ces cartes pour tester vos connaissances. Cliquez sur chaque question pour voir la réponse.

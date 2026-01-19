@@ -15,29 +15,49 @@ description: l'accueil de JuniaCode
 
 <div class="grid cards" markdown>
 
--  :material-language-cpp:__Cpp__ [:octicons-arrow-right-24:](Cpp/index.md)
+-  :material-language-cpp: [:octicons-arrow-right-24:](Cpp/index.md)
 
     ---
 
+    **C++**
+    
     Cours
-
+    
     - [Les bases](Cpp/Cours/bases.md)
-
-    - [Arduino](Cpp/Cours/arduino.md)
-
+    
     - [Programmation orientée objet](Cpp/Cours/poo.md)
-
+    
     Exercices
-
+    
     - [Débutants](Cpp/Exercices/debutants.md)
-
+    
     - [Intermédiaires](Cpp/Exercices/intermediaires.md)
-
+    
     - [Avancés](Cpp/Exercices/avances.md)
     
-    FlashCards
+    Révisions
+    
+    - [Flashcards C++](FlashCard/Cpp.md)
+    
+    - Auto-évaluation
+    
+    - [Quiz C++](Quiz/cpp.md)
 
-    - [FlashCards](Cpp/FlashCard/index.md)
+    **Arduino**
+    
+    Cours
+    
+    - [Arduino](Cpp/Cours/arduino.md)
+    
+    Révisions
+    
+    - [Flashcards Arduino](FlashCard/Arduino.md)
+    
+    Auto-évaluation
+    
+    - [Quiz Arduino](Quiz/Arduino_1.md)
+
+
 
 -  :material-language-python:__Python__ [:octicons-arrow-right-24:](Python/index.md)
 

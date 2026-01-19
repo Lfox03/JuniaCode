@@ -1,8 +1,6 @@
 ---
-title: Quiz
+title: C++
 description: Quiz sur le C++
-icon: material/lightning-bolt
-weight: 3
 quiz:
   shuffle_answers: true
 ---
@@ -11,9 +9,9 @@ quiz:
 
 Voici un quiz de **15 questions** sur le langage **C++**
 
----
-<!-- mkdocs-quiz intro -->
----
+!!! info ""
+    <!-- mkdocs-quiz intro -->
+
 <quiz>
 Quel est l'avantage principal d'utiliser des références (`&`) plutôt que des pointeurs (`*`) en C++ ?
 - [x] Évite les erreurs de nullité et simplifie la syntaxe

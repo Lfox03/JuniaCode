@@ -11,7 +11,7 @@ Le **C++** est un langage de programmation puissant, utilisé pour des applicati
 
 ## Contenu disponible
 
-### **Cours structurés**
+### **Cours**
 Découvrez les fondamentaux et approfondissez vos connaissances :
 
 - [Bases du C++](./Cours/bases.md) : Syntaxe, types, variables
@@ -20,7 +20,7 @@ Découvrez les fondamentaux et approfondissez vos connaissances :
 
 - [Arduino](./Cours/arduino.md) : Syntaxe, structure, broches
 
-### **Exercices pratiques**
+### **Exercices**
 Entraînez-vous avec des exercices classés par niveau :
 
 - 🌟 **[Débutants](./Exercices/debutants.md)** : Variables, boucles, conditions
@@ -29,11 +29,18 @@ Entraînez-vous avec des exercices classés par niveau :
 
 - ⚡ **[Avancés](./Exercices/avances.md)** : STL avancé, manipulation mémoire
 
-### **Flashcards interactives**
+### **Flashcards**
 Révisez les concepts clés avec des flashcards :
 
-- [Bases du langage](./FlashCard/index.md)
-<!-- - [POO et design patterns](flashcards/poo.md) -->
+- [Arduino](./FlashCard/Arduino.md)
+- [C++](./FlashCard/Cpp.md)
+
+### **quiz**
+Testez vos connaissances avec des quiz interactifs :
+
+- [Arduino](./Quiz/Arduino_1.md)
+- [C++](./Quiz/cpp.md)
+
 
 ---
 
@@ -42,7 +49,3 @@ Révisez les concepts clés avec des flashcards :
 A venir !
 <!-- - [Glossaire du C++](../ressources/glossaire.md)
 - [FAQ pour débutants](../guide/faq.md) -->
-
----
-
-**Prochaine étape** : Choisissez un sujet dans le menu ou explorez les cours !
